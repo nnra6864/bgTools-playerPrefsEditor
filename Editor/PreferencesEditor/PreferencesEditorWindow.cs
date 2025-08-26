@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿// Copyright 2025 Cyber Chaos Games. All Rights Reserved.
+
+using UnityEngine;
 using UnityEditor;
 using UnityEditor.IMGUI.Controls;
 using UnityEditorInternal;

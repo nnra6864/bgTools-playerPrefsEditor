@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿// Copyright 2025 Cyber Chaos Games. All Rights Reserved.
+
+using System.Collections.Generic;
 using UnityEngine;
 
 namespace CCG.PlayerPrefsEditor

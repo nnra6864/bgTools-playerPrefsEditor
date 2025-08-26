@@ -1,4 +1,6 @@
-﻿using CCG.Extensions;
+﻿// Copyright 2025 Cyber Chaos Games. All Rights Reserved.
+
+using CCG.Extensions;
 using CCG.Utils;
 using System;
 using System.Collections.Generic;

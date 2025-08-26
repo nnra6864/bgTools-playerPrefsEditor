@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Copyright 2025 Cyber Chaos Games. All Rights Reserved.
+
+using System;
 using System.Linq;
 
 #if UNITY_EDITOR_WIN

@@ -1,4 +1,6 @@
-﻿using UnityEditor;
+﻿// Copyright 2025 Cyber Chaos Games. All Rights Reserved.
+
+using UnityEditor;
 using UnityEngine;
 
 namespace CCG.PlayerPrefsEditor

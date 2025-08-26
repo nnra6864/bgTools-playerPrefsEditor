@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Copyright 2025 Cyber Chaos Games. All Rights Reserved.
+
+using System;
 using System.Linq;
 using System.Collections.Generic;
 using UnityEngine;
