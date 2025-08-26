@@ -4,7 +4,7 @@ Tool extension for the Unity Editor that enables easy access to the player prefe
 
 ## Support
 
-[GitHub](https://github.com/Dysman/bgTools-playerPrefsEditor) | [Website](https://www.bgtools.de/post/playerprefseditor/) | [Mail](mailto:support@bgtools.de) | [Discord](https://discord.gg/8rcPZrD)
+[GitHub](https://github.com/Dysman/bgTools-playerPrefsEditor) | [Website](https://cyberchaos.games/tools/playerprefs-editor/) | [Mail](mailto:support@cyberchaos.games) | [Discord](https://discord.gg/8rcPZrD)
 
 ## Features
 
@@ -18,14 +18,14 @@ Tool extension for the Unity Editor that enables easy access to the player prefe
 
 ## Usage
 
-The PlayerPrefs Editor is located in the top menu at Tools/BG Tools/PlayerPrefs Editor. It's a standard dockable window, so place it wherever it helps to be productive.
+The PlayerPrefs Editor is located in the top menu at Tools/CCG-Tools/PlayerPrefs Editor. It's a standard dockable window, so place it wherever it helps to be productive.
 
-![PlayerPrefs editor window layout](./Images/bgtools_ppe_manual_layout.png){ width=100% style="max-width:800px" }
+![PlayerPrefs editor window layout](./Images/ccg_ppe_manual_layout.png){ width=100% style="max-width:800px" }
 
 The PlayerPrefs Editor window displays:
 * (A) Filter field
 * (B) Sort mode
-* (C) Toggle 'System changes monitoring' behavior
+* (C) Toggle 'System changes monitoring' behaviour
 * (D) Refresh data
 * (E) Delete all data
 * (F) Operating system and path to PlayerPrefs data
@@ -53,9 +53,9 @@ To change a value of a existing entry do this directly in the value field in the
 
 **Sorting**
 
-Circle trought the sorting funtions by pressing the (B) button in the toolbar.
+Circle trough the sorting functions by pressing the (B) button in the toolbar.
 
-Following sorting function are aviliable for the PlayerPref entries:
+Following sorting function are available for the PlayerPref entries:
 * None
 * Ascending
 * Descending
@@ -64,7 +64,7 @@ Following sorting function are aviliable for the PlayerPref entries:
 
 Enter a text into the the search field (A) in the toolbar to filter the PlayerPrefs data list (G).
 
-![PlayerPrefs editor searchfield modes](./Images/bgtools_ppe_manual_filterModes.png){ width=50% style="max-width:350px" }
+![PlayerPrefs editor searchfield modes](./Images/ccg_ppe_manual_filterModes.png){ width=50% style="max-width:350px" }
 
 Additionally select the mode for filtering by pressing on the magnifying glass icon in the search field. Choose between filtering the existing PlayPrefs by key or value. The current search target will be shown in the searchfield if no search string is present.
 
@@ -77,7 +77,7 @@ The plugin can monitor changes at runtime automatically and keep the view up-to-
 This package includes two samples for testing purposes:
 
 **Test Value Menu**
-> Adds new entries into the top menu Tools/BG Tools/PlayerPrefs Test Values. This allows easily to add text values to the PlayerPrefs of the current project.
+> Adds new entries into the top menu Tools/CCG-Tools/PlayerPrefs Test Values. This allows easily to add text values to the PlayerPrefs of the current project.
 
 **Sample Scene**
 > Simple UI that manipulates PlayerPrefs entries on runtime.
