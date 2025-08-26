@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace BgTools.Utils
+namespace CCG.Utils
 {
     public class Styles
     {

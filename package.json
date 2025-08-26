@@ -5,14 +5,15 @@
   "unity": "2019.4",
   "description": "Tool extension for the Unity Editor that enables easy access to the player preferences over a simple UI. Allows to view, add, remove and modify entries on the development machine.",
   "author": {
-    "name": "BG Tools",
-    "email": "support@bgtools.de",
-    "url": "https://bgtools.de/post/playerprefseditor/"
+    "name": "CCG",
+    "email": "support@cyberchaos.games",
+    "url": "https://cyberchaos.games/tools/playerprefs-editor/"
   },
   "keywords": [
     "Tool",
     "Editor",
     "bgTools",
+    "ccgTools",
     "PlayerPrefs"
   ],
   "samples": [

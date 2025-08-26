@@ -5,7 +5,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace BgTools.Utils
+namespace CCG.Utils
 {
     public class ImageManager
     {

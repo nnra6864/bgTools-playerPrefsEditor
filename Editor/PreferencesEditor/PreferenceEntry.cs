@@ -1,4 +1,4 @@
-﻿namespace BgTools.PlayerPrefsEditor
+﻿namespace CCG.PlayerPrefsEditor
 {
     [System.Serializable]
     public class PreferenceEntry
