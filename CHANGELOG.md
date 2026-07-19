@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 - Update unity defined playerPrefs list to cover 'Unity services' and 'addressables'
 
+### Removed
+- Remove Unity 2019 - 2023 support
+
 ## [1.2.4] - 2025-08-26
 - rebrand to cyber chaos games (CCG)
 
