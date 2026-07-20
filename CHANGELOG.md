@@ -6,6 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 - Update unity defined playerPrefs list to cover 'Unity services' and 'addressables'
+- Add input system (legacy, new) auto detection to sample scene
 
 ### Removed
 - Remove Unity 2019 - 2023 support
